@@ -1,0 +1,12 @@
+{
+  "links": {
+    "kelp": "kelp",
+    "kelp-theme-sdf": "kelp-theme-sdf",
+    "mcs-core": "mcs-core",
+    "mcs-login": "mcs-login",
+    "mcs-settings": "mcs-settings",
+    "mcs-stellar-api": "mcs-stellar-api",
+    "mcs-stellar-client": "mcs-stellar-client",
+    "mcs-stellard": "mcs-stellard"
+  }
+}

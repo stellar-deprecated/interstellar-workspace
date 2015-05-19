@@ -14,7 +14,6 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
   git clone https://github.com/stellar/mcs
   ## or git clone git@github.com:stellar/mcs.git
   cd mcs
-  npm install
   npm install -g
   ```
 
@@ -23,7 +22,7 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
 
   ```bash
   git clone https://github.com/stellar/mcs-workspace
-  ## or git clone git@github.com:stellar/mcs.git
+  ## or git clone git@github.com:stellar/mcs-workspace.git
   ```
 1. Make sure you are using node v0.10.*. Run `node -v` to see. If not, use [nvm](https://github.com/creationix/nvm) to install v0.10.* alongside your current version.
 1. Clone all necessary modules by running the init script:
@@ -33,3 +32,8 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
   ```
 1. `npm install -g npm-workspace`
 1. `npm-workspace install`
+1. Now you are ready to develop:
+```
+cd ../mcs-stellar-client
+mcs develop
+```

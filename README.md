@@ -33,7 +33,8 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
 1. `npm install -g npm-workspace`
 1. `npm-workspace install`
 1. Now you are ready to develop:
-```
-cd mcs-stellar-client
-mcs develop
-```
+
+  ```
+  cd mcs-stellar-client
+  mcs develop
+  ```

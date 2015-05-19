@@ -14,7 +14,7 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
   git clone https://github.com/stellar/mcs
   ## or git clone git@github.com:stellar/mcs.git
   cd mcs
-  npm install -g
+  npm link
   ```
 
 ## Usage

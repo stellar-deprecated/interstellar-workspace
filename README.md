@@ -7,7 +7,7 @@ This repository helps developers quickly get started with developing on [mcs-ste
 Node.js' package manager, [npm](https://www.npmjs.com/), provides this functionality through the [`npm link`](https://docs.npmjs.com/cli/link) command. This repository leverages [npm-workspace](https://github.com/mariocasciaro/npm-workspace) to easily link all the mcs modules as node dependencies where needed.
 
 ## Prerequisites
-1. Make sure you have: git, node, nvm, and make. On ubuntu, run `sudo apt-get install build-essential`.
+1. Make sure you have: git, node v0.10, npm, and make. On ubuntu, run `sudo apt-get install build-essential`.
 1. Install mcs:
 
   ```bash

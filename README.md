@@ -8,7 +8,7 @@ Node.js' package manager, [npm](https://www.npmjs.com/), provides this functiona
 
 ## Prerequisites
 1. Make sure you have: git, node v0.10, npm, and make. On ubuntu, run `sudo apt-get install build-essential`.
-1. Install mcs:
+1. Install [mcs](https://github.com/stellar/mcs):
 
   ```bash
   git clone https://github.com/stellar/mcs

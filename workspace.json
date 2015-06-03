@@ -2,11 +2,12 @@
   "links": {
     "solar": "solar",
     "solar-stellarorg": "solar-stellarorg",
-    "mcs-core": "mcs-core",
-    "mcs-login": "mcs-login",
-    "mcs-settings": "mcs-settings",
-    "mcs-stellar-api": "mcs-stellar-api",
-    "mcs-stellar-client": "mcs-stellar-client",
-    "mcs-stellard": "mcs-stellard"
+    "interstellar-core": "interstellar-core",
+    "interstellar-wallet": "interstellar-wallet",
+    "interstellar-stellar-api": "interstellar-stellar-api",
+    "interstellar-client": "interstellar-client",
+    "interstellar-network": "interstellar-network",
+    "interstellar-network-widgets": "interstellar-network-widgets",
+    "interstellar-sessions": "interstellar-sessions"
   }
 }

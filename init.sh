@@ -1,6 +1,6 @@
 #!/bin/bash
 git clone git@github.com:stellar/solar.git
-git clone git@github.com:stellar/solar-sdf.git
+git clone git@github.com:stellar/solar-stellarorg.git
 git clone git@github.com:stellar/mcs-core.git
 git clone git@github.com:stellar/mcs-login.git
 git clone git@github.com:stellar/mcs-settings.git

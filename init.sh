@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone git@github.com:stellar/solar.git
+git clone git@github.com:stellar/solar.git solar-css
 git clone git@github.com:stellar/solar-stellarorg.git
 git clone git@github.com:stellar/interstellar-core.git
 git clone git@github.com:stellar/interstellar-wallet.git

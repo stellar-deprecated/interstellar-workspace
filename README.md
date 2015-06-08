@@ -1,8 +1,8 @@
 # interstellar-workspace
 
-This repository helps developers quickly get started with developing on [interstellar-client](https://github.com/stellar/interstellar-client).
+This repository gets developers quickly started with developing on the [interstellar-client](https://github.com/stellar/interstellar-client) which is part of the [`Interstellar Module System`](https://github.com/stellar/interstellar/)
 
-[interstellar](https://github.com/stellar/interstellar) apps are made up of multiple modules which are organized into separate git repositories. When developing modules/widgets alongside an app, it is useful to have the modules [symlinked](http://en.wikipedia.org/wiki/Symbolic_link) so that changes can be immediately reflected.
+[interstellar](https://github.com/stellar/interstellar) apps are made up of [multiple modules](https://github.com/stellar/interstellar/blob/master/docs/module-list.md). When developing modules/widgets alongside an app, it is useful to have the modules [symlinked](http://en.wikipedia.org/wiki/Symbolic_link) so that changes can be immediately reflected.
 
 Node.js' package manager, [npm](https://www.npmjs.com/), provides this functionality through the [`npm link`](https://docs.npmjs.com/cli/link) command. This repository leverages [npm-workspace](https://github.com/mariocasciaro/npm-workspace) to easily link all the interstellar modules as node dependencies where needed.
 

@@ -8,6 +8,7 @@
     "interstellar-client": "interstellar-client",
     "interstellar-network": "interstellar-network",
     "interstellar-network-widgets": "interstellar-network-widgets",
-    "interstellar-sessions": "interstellar-sessions"
+    "interstellar-sessions": "interstellar-sessions",
+    "interstellar-ui-messages": "interstellar-ui-messages"
   }
 }

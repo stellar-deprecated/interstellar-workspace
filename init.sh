@@ -8,3 +8,4 @@ git clone git@github.com:stellar/interstellar-client.git
 git clone git@github.com:stellar/interstellar-network.git
 git clone git@github.com:stellar/interstellar-network-widgets.git
 git clone git@github.com:stellar/interstellar-sessions.git
+git clone git@github.com:stellar/interstellar-ui-messages.git
